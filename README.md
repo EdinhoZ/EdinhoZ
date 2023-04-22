@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 - 🌱 I’m currently learning C and Rust
 - 🤔 I’m looking for help with mainly Rust
