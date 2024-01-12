@@ -4,11 +4,8 @@
 
 ![](https://komarev.com/ghpvc/?username=EdinhoZ&color=blueviolet)
 
-- 🌱 I’m currently learning C and Rust
-- 🤔 I’m looking for help with mainly Rust
+- 🌱 I’m currently learning C and soon Java
 - 📫 How to reach me: edgaracpinto@gmail.com
-- ⚡ Fun fact: The first language i learned was C#
-- 👨‍💻 I have a CodinGame account: https://www.codingame.com/profile/f22eab0024cd4db112709af84b89d1ed3406455
 
 ### What i use and learn:
 
